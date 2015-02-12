@@ -1,4 +1,4 @@
-# IT-Podcasts-
+# IT-Podcasts
 
 A curated list of IT podcasts. Security or current news, Everyone Can Contribute.  
 
@@ -10,4 +10,4 @@ A curated list of IT podcasts. Security or current news, Everyone Can Contribute
 
 ## Security 
 
-* [Security Now](htps://www.grc.com/securitynow.htm) - Security Now! Weekly Internet Security Podcast. 
+* [Security Now](https://www.grc.com/securitynow.htm) - Security Now! Weekly Internet Security Podcast. 
