@@ -1,6 +1,6 @@
 # IT-Podcasts 
 
-A curated list of IT podcasts. Video series, Audio recordins, of  Security or current news, or anything IT Everyone Can Contribute.  
+A curated list of IT podcasts. Video series, Audio recordings, of  Security or current news, or anything IT Everyone Can Contribute.  
 
 - [Security](#Security)
 - [Google](#google) 
