@@ -3,7 +3,7 @@
 A curated list of IT podcasts. Video series, Audio recordings, of  Security or current news, or anything IT Everyone Can Contribute.  
 
 - [Security](#Security)
-- [Google](#google) 
+- [Google](#Google) 
 - [Contributing](#contributing)
 
 
@@ -15,7 +15,7 @@ A curated list of IT podcasts. Video series, Audio recordings, of  Security or c
 * [Security weekly](http://securityweekly.com/) - Watch Paul's Security Weekly for the latest information security news, research, hacker techniques, vulnerabilities, and technical how-tos!
 * [hak5](http://hak5.org/) - trust Your Technolust
 
-## google
+## Google
 
 * [google webmaster english hangout](https://www.youtube.com/playlist?list=PLKoqnv2vTMUMqH8IyzOMBc_Z8i-S6-tVJ) -  meet with members of the Google Webmaster Central team.
 
