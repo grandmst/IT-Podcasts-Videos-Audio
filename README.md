@@ -4,6 +4,7 @@ A curated list of IT podcasts. Video series, Audio recordings, of  Security or c
 
 - [Security](#Security)
 - [Google](#Google) 
+- [Learning](learning)
 - [Contributing](#contributing)
 
 
@@ -19,6 +20,9 @@ A curated list of IT podcasts. Video series, Audio recordings, of  Security or c
 
 * [google webmaster english hangout](https://www.youtube.com/playlist?list=PLKoqnv2vTMUMqH8IyzOMBc_Z8i-S6-tVJ) -  meet with members of the Google Webmaster Central team.
 
+## learning 
+
+* [Inside Podcast Network – Skilling up](http://ipn.tv/) - Skilling Up your hosts Dan Kregor and Christian Booth discuss topics focused on learning new technologies to “Skill Up” your IT Skills. Topics cover studying for certifications, IT “Soft Skills”, and even deep dives on cutting edge tech like Windows Azure Pack.
 
 # Contributing
 
