@@ -4,7 +4,7 @@ A curated list of IT podcasts. Video series, Audio recordings, of  Security or c
 
 - [Security](#Security)
 - [Google](#Google)
-- [Microsoft](#Microsoft}
+- [Microsoft](#Microsoft)
 - [Learning](learning)
 - [Contributing](#contributing)
 
