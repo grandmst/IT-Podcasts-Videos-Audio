@@ -3,7 +3,8 @@
 A curated list of IT podcasts. Video series, Audio recordings, of  Security or current news, or anything IT Everyone Can Contribute.  
 
 - [Security](#Security)
-- [Google](#Google) 
+- [Google](#Google)
+- [Microsoft](#Microsoft}
 - [Learning](learning)
 - [Contributing](#contributing)
 
@@ -19,6 +20,10 @@ A curated list of IT podcasts. Video series, Audio recordings, of  Security or c
 ## Google
 
 * [google webmaster english hangout](https://www.youtube.com/playlist?list=PLKoqnv2vTMUMqH8IyzOMBc_Z8i-S6-tVJ) -  meet with members of the Google Webmaster Central team.
+
+## Microsoft
+
+* [Microsoft TechNet Radio](http://channel9.msdn.com/Shows/TechNet+Radio) - The podcast for anyone who is passionate about IT. We go deep into the technologies you live with, and the people that build, deploy and manage these. Each week we offer a critical voice, guests ranging from your IT peers, technical roles inside Microsoft and industry experts.
 
 ## learning 
 
